@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">XO</string>
+    <string name="welcome_msg">WELCOME TO XO</string>
+    <string name="grid">Main Grid</string>
+</resources>
